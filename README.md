@@ -1,0 +1,1 @@
+# Convert Bad Apple to char* for c
